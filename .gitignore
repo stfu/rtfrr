@@ -1,0 +1,12 @@
+.*
+*~
+!.gitignore
+build
+target
+tmp
+precompiled
+eclipse
+netbeans
+idea
+*.ipr
+
